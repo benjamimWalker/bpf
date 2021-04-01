@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299812464008",
+    "project_id": "bpf-app",
+    "storage_bucket": "bpf-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299812464008:android:8812802426a71e0dd0063d",
+        "android_client_info": {
+          "package_name": "com.ifma.bpf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299812464008-1j6v1s5ecs9m4tnr4iss6eflpoep0prj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsj7Pigo0mouvzmoiCHDetP6rWG8mMME8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299812464008-1j6v1s5ecs9m4tnr4iss6eflpoep0prj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
