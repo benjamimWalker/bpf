@@ -5,9 +5,12 @@ import 'package:bpf/views_models/controle_secundario.dart';
 
 import 'views/controle_pragas_screen.dart';
 import 'views/higienizacao.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'views/registro_screen.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(PbfApp());
 }
 
